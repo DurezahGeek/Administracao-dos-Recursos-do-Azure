@@ -163,3 +163,24 @@ New-AzResourceGroupDeployment -ResourceGroupName az104-rg2
 | Ferramenta recomendada para edição?           | Visual Studio Code                           |
 | Pode ser usado em multi-cloud?                | 🛑 Não – use Terraform                        |
 | Ferramenta multi-cloud recomendada?           | Terraform                                    |
+
+
+## 📚 Links Úteis para Estudo
+
+### 📌 Portal do Azure e Cloud Shell
+- [🔗 Visão geral do Portal do Azure](https://docs.microsoft.com/azure/azure-portal/azure-portal-overview)
+- [🔗 Visão geral do Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview)
+
+### ⚙️ PowerShell e CLI
+- [🔗 Introdução ao Azure PowerShell](https://docs.microsoft.com/powershell/azure/get-started-azureps?view=azps-4.3.0)
+- [🔗 Introdução ao Azure CLI](https://learn.microsoft.com/pt-br/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
+
+### 🛠️ ARM Templates
+- [🔗 Visão geral dos modelos ARM](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/templates/overview)
+- [🔗 Sintaxe dos modelos ARM](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/templates/template-syntax)
+- [🔗 Parâmetros em templates ARM](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/templates/parameters)
+
+### 💡 Laboratórios e Guias Práticos
+- [🔗 Laboratório Oficial - Gerenciar Recursos com ARM Templates (Microsoft Learning)](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html)
+- [🔗 Guia Prático - Azure Administrator Exercise 4 (MS Labs)](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%204)
+
